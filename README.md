@@ -14,6 +14,7 @@ Real-life examples of sharing research software in publications and resouces to 
 * Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Mozilla Science Lab's [GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction)
 * GitHub Training Kit: [Cheatsheets](https://training.github.com/)
+* OSF [Getting Started Guide](https://help.osf.io/article/342-getting-started-on-the-osf)
 * British Ecological Society [Guides to better science: reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
 * The Turing Way Community. [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://doi.org/10.5281/zenodo.7625728)
 * Patrick J Mineault & The Good Research Code Handbook Community. [The Good Research Code Handbook](https://doi.org/10.5281/zenodo.5796873)
