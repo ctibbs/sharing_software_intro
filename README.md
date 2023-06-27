@@ -9,17 +9,18 @@ Real-life examples of sharing research software in publications and resouces to 
 5. Behle E, Raguin A (2021) Stochastic model of lignocellulosic material saccharification. PLoS Comput Biol 17(9): e1009262. https://doi.org/10.1371/journal.pcbi.1009262
 
 
-## Resources
-* UKRN [Open Software Primer](https://osf.io/qw9ck)
-* Software Carpentry's [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+## Further Reading and Resources
+* Patrick J Mineault & The Good Research Code Handbook Community (2021). [The Good Research Code Handbook](https://doi.org/10.5281/zenodo.5796873)
+* Taschuk M, Wilson G (2017). [Ten simple rules for making research software more robust](https://doi.org/10.1371/journal.pcbi.1005412) PLoS Comput Biol 13(4): e1005412
+* D.G.E. Gomes et al. (2022). [Why don't we share data and code? Perceived barriers and benefits to public archiving practices](https://doi.org/10.1098/rspb.2022.1113) Proc. R. Soc. B. 289: 20221113
+* The Turing Way Community (2022). [The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2)](https://doi.org/10.5281/zenodo.7625728)
+* British Ecological Society [Guides to better science: reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
+* Software Carpentry [Core Lessons](https://software-carpentry.org/lessons/)
+* CodeRefinery [Core Lessons](https://coderefinery.org/lessons/core/)
 * Mozilla Science Lab's [GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction)
 * GitHub Training Kit: [Cheat Sheets](https://training.github.com/)
+* UKRN [Open Software Primer](https://osf.io/qw9ck)
+* Reproducibilitea [Journal Club - Exeter](https://reproducibilitea.org/journal-clubs/#Exeter)
 * OSF [Getting Started Guide](https://help.osf.io/article/342-getting-started-on-the-osf)
-* British Ecological Society [Guides to better science: reproducible code](https://www.britishecologicalsociety.org/wp-content/uploads/2019/06/BES-Guide-Reproducible-Code-2019.pdf)
-* The Turing Way Community. [The Turing Way: A handbook for reproducible, ethical and collaborative research](https://doi.org/10.5281/zenodo.7625728)
-* Patrick J Mineault & The Good Research Code Handbook Community. [The Good Research Code Handbook](https://doi.org/10.5281/zenodo.5796873)
-
-
-
 
 
