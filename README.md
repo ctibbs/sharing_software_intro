@@ -20,7 +20,7 @@ Real-life examples of sharing research software in publications and resouces to 
 * Mozilla Science Lab's [GitHub Essentials](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/#introduction)
 * GitHub Training Kit: [Cheat Sheets](https://training.github.com/)
 * UKRN [Open Software Primer](https://osf.io/qw9ck)
-* Reproducibilitea [Journal Club - Exeter](https://reproducibilitea.org/journal-clubs/#Exeter)
+* ReproducibiliTea [Journal Club - Exeter](https://reproducibilitea.org/journal-clubs/#Exeter)
 * OSF [Getting Started Guide](https://help.osf.io/article/342-getting-started-on-the-osf)
 
 
